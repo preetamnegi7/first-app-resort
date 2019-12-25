@@ -7,12 +7,12 @@ export default class Services extends Component {
       {
         icon: <FaCocktail />,
         title: "free cocktails",
-        info: "Loda Lassan"
+        info: "Costomers can enjoy unlimited beverages"
       },
       {
         icon: <FaHiking />,
         title: "free Hiking",
-        info: "Pahaad pr chdaai"
+        info: "Trekking in Himayalas"
       },
       {
         icon: <FaShuttleVan />,
@@ -22,7 +22,7 @@ export default class Services extends Component {
       {
         icon: <FaBeer />,
         title: "Beer Dba ke",
-        info: "Beer Piyo dba kr"
+        info: "Free beer services"
       }
     ]
   };
